@@ -1,0 +1,59 @@
+{
+  "_comment": "Three synthetic eligible cases for weight sensitivity analysis. All pass hard checks and are eligible for scoring.",
+  "cases": [
+    {
+      "id": "extra-high-authority-secondary-support",
+      "statement": "Primary regulatory agency cites provisional industry estimates regarding regional energy compliance.",
+      "metadata": {
+        "source_type": "primary_authority",
+        "content_type": "news",
+        "published_at": "2026-10-04",
+        "event_date": "2026-10-02",
+        "effective_from": null,
+        "last_verified_at": "2026-10-06",
+        "current_status": "current",
+        "supported": true,
+        "partial_support": true,
+        "superseded": false,
+        "contradiction": false,
+        "competitor_product_claim": false
+      }
+    },
+    {
+      "id": "extra-strong-evidence-secondary-source",
+      "statement": "Independent academic research institute presents verified benchmark metrics for cloud storage latency.",
+      "metadata": {
+        "source_type": "secondary_authority",
+        "content_type": "news",
+        "published_at": "2026-10-04",
+        "event_date": "2026-10-03",
+        "effective_from": null,
+        "last_verified_at": "2026-10-06",
+        "current_status": "current",
+        "supported": true,
+        "partial_support": false,
+        "superseded": false,
+        "contradiction": false,
+        "competitor_product_claim": false
+      }
+    },
+    {
+      "id": "extra-balanced-benchmark",
+      "statement": "Official standards body publishes an active specification with full evidence and fresh reporting.",
+      "metadata": {
+        "source_type": "primary_authority",
+        "content_type": "news",
+        "published_at": "2026-10-05",
+        "event_date": "2026-10-04",
+        "effective_from": null,
+        "last_verified_at": "2026-10-06",
+        "current_status": "current",
+        "supported": true,
+        "partial_support": false,
+        "superseded": false,
+        "contradiction": false,
+        "competitor_product_claim": false
+      }
+    }
+  ]
+}
